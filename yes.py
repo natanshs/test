@@ -1,5 +1,1 @@
-a= 2
-b = 4
-
-print(a+b)
-print(a-b)
+print('wow whqt qn qmqzib dqy')
