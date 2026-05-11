@@ -1,1 +1,1 @@
-print('hello wojecbkwme  ')
+print('hello everyone this is our major project ')
