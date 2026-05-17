@@ -1,0 +1,1 @@
+print('wow whqt qn qmqzib dqy')
